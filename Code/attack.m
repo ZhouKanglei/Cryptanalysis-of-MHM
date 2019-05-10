@@ -34,5 +34,5 @@ function [ I P Err ] = attack( R, I0 )
             end
         end
     end
-    num
+    fprintf('Error_num = %d\n', num);
 end
