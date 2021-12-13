@@ -1,8 +1,8 @@
 clc; close all; clear;
 addpath(genpath('lib/'));
 %% Encryption
-filename = 'plant';
-I = imread(['images/', filename, '.png']); % Plain image
+filename = 'pic';
+I = imread(['images/', filename, '.bmp']); % Plain image
 [ R, O, D, L, T ] = encryption( I );
 %% Plot
 figure;
