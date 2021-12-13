@@ -21,6 +21,7 @@ Recently, a novel image encryption scheme has been proposed based on a modified 
 ```
 
 - MLA
-  - Zhou, Kanglei, et al. "Cryptanalyzing an image encryption based on a modified Henon map using hybrid chaotic shift transform." Digital Signal Processing 93 (2019): 115-127.
-
+```tex
+Zhou, Kanglei, et al. "Cryptanalyzing an image encryption based on a modified Henon map using hybrid chaotic shift transform." Digital Signal Processing 93 (2019): 115-127.
+```
 
