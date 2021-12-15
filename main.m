@@ -1,5 +1,5 @@
 clc; close all; clear;
-addpath(genpath('lib/'));
+addpath(genpath('src/'));
 %% Encryption
 filename = 'pic';
 I = imread(['images/', filename, '.bmp']); % Plain image
