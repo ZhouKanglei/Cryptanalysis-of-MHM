@@ -4,7 +4,23 @@ Recently, a novel image encryption scheme has been proposed based on a modified 
 
 [Paper Address](https://www.sciencedirect.com/science/article/pii/S105120041930106X) | [Download Paper](Papers)
 
-# Citation
+## Framework
+
+Flowchart of the proposed attack strategy.
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S105120041930106X-gr002_lrg.jpg)
+
+
+
+## Results
+
+The validity of the proposed cryptanalysis: images from column 1 to column 6 show plain images, cipher images, images with the diffusion effect eliminated, retrieved permutation-only images, final restored images and the XOR results for column 1 and column 5.
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S105120041930106X-gr013_lrg.jpg)
+
+
+
+## Citation
 
 - bibtex
 
@@ -25,3 +41,6 @@ Recently, a novel image encryption scheme has been proposed based on a modified 
 Zhou, Kanglei, et al. "Cryptanalyzing an image encryption based on a modified Henon map using hybrid chaotic shift transform." Digital Signal Processing 93 (2019): 115-127.
 ```
 
+## Contact
+
+Please feel free to contact me via `zhoukanglei[at]qq.com`.
